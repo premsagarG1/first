@@ -1,7 +1,7 @@
 package p2;
 
 public class Y {
-void m44() {
-	
+public void m44() {
+	System.out.println("y444");
 }
 }
