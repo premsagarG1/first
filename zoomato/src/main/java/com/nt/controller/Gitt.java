@@ -8,7 +8,9 @@ public class Gitt {
 		
 		System.out.println("how are you doing developer");
 		
-		System.out.println("nice to meet you");
-	}
+		System.out.println("iam doing good, how about you");
+		
+		System.out.println("good");
+		
 
 }
