@@ -13,5 +13,6 @@ public class Gitt {
 		System.out.println("good");
 		
 		System.out.println("bye");
+		System.out.println("chai");
 	}
 }
