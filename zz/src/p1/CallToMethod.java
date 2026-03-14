@@ -6,6 +6,7 @@ public class CallToMethod {
 		A1 a =new A1();
 		System.out.println(a.toDayDate());
 		System.out.println("first java");
+		System.out.println("not working");
 	}
 
 }
