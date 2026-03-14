@@ -7,6 +7,7 @@ public class CallToMethod {
 		System.out.println(a.toDayDate());
 		System.out.println("first java");
 		System.out.println("not working");
+		System.out.println("chai chai");
 	}
 
 }
